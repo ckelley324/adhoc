@@ -1,3 +1,7 @@
+html {
+  font-size: 16px;
+}
+
 .navbar > .container-fluid .navbar-brand {
   margin-left: 0;
 }
@@ -9,4 +13,24 @@
 
 .navbar {
   background-color: white;
+}
+
+.jumbotron {
+  background-image: url('../images/jumbotron.png');
+  background-position: center;
+  background-size: cover;
+  height: 43.5rem;
+}
+
+.jumbotron h1 {
+  margin-top: 17rem;
+}
+
+.why {
+  border-top: solid 1px black;
+}
+
+.why h1 {
+  position: relative;
+  top: -2.5rem;
 }
