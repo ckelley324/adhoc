@@ -1,0 +1,12 @@
+.navbar > .container-fluid .navbar-brand {
+  margin-left: 0;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-nav .navbar-nav > .active > a:hover {
+  color: #37c2aa;
+  background-color: white;
+}
+
+.navbar {
+  background-color: white;
+}
