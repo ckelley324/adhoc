@@ -34,3 +34,7 @@ html {
   position: relative;
   top: -2.5rem;
 }
+
+.team {
+  background-color: gray;
+}
